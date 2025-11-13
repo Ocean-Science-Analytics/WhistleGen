@@ -48,7 +48,7 @@ The most up-to-date working application is on the main branch. Other branches ar
 If you have questions, bugs or want further information about this application, please reach out to either:
 
 Jared Stephens: [jstephens\@oceanscienceanalytics.com](mailto:jstephens@oceanscienceanalytics.com)\
-Liz Ferguson: [eferguson\@oceanscienceanalytics.com](mailto:eferguson@oceanscienceanalytics.com)
+Liz Ferguson: [eferguson\@oceanscienceanalytics.com](mailto:eferguson@oceanscienceanalytics.com)\
 Peter Sugarman: [petersu18\@msn.com](mailto:petersu18@msn.com)
 
 ------------------------------------------------------------------
