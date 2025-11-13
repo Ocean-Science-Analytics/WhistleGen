@@ -7,7 +7,18 @@ Developed by **Ocean Science Analytics LLC**, this tool allows users to simulate
 
 WhistleGen provides a flexible, user-friendly interface built with Shiny and integrates acoustic signal generation and analysis tools from several R packages, including **soundgen**, **seewave**, and **tuneR**. It is ideal for researchers, educators, and developers interested in bioacoustics, marine mammal communication, or signal synthesis.
 
-------------------------------------------------------------------
+---
+
+## Authors
+
+**Designer:**  
+Peter Sugarman  
+
+**Developers:**  
+Jared Stephens  
+Jennifer Pettis Schallert
+
+---
 
 ## Installation Instructions
 
@@ -35,23 +46,23 @@ install.packages(c(
 shiny::runApp()
 ```
 
-------------------------------------------------------------------
+---
 
 ## Usage
 
 The most up-to-date working application is on the main branch. Other branches are used for development purposes and may not be in working order.
 
-------------------------------------------------------------------
+---
 
 ## Contact Information
 
 If you have questions, bugs or want further information about this application, please reach out to either:
 
+Peter Sugarman: [petersu18\@msn.com](mailto:petersu18@msn.com)\
 Jared Stephens: [jstephens\@oceanscienceanalytics.com](mailto:jstephens@oceanscienceanalytics.com)\
-Liz Ferguson: [eferguson\@oceanscienceanalytics.com](mailto:eferguson@oceanscienceanalytics.com)\
-Peter Sugarman: [petersu18\@msn.com](mailto:petersu18@msn.com)
+Liz Ferguson: [eferguson\@oceanscienceanalytics.com](mailto:eferguson@oceanscienceanalytics.com)
 
-------------------------------------------------------------------
+---
 
 ## Copyright
 
