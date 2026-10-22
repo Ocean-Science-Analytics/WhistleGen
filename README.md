@@ -68,3 +68,15 @@ Liz Ferguson: [eferguson\@oceanscienceanalytics.com](mailto:eferguson@oceanscien
 
 Modified work Copyright © 2025 by Peter Sugarman, Jared Stephens, Elizabeth Ferguson, & Jennifer Pettis Schallert All Rights Reserved.
 
+## How to cite
+
+If you use WhistleGen in your work, please cite it:
+
+> Ocean Science Analytics. (2026). *WhistleGen* [Computer software]. https://github.com/Ocean-Science-Analytics/WhistleGen
+
+You can also click **Cite this repository** in the right-hand sidebar of this page to copy the citation in APA or BibTeX format.
+
+## License
+
+WhistleGen is © 2026 Ocean Science Analytics, LLC and is licensed under the [Apache License 2.0](LICENSE). You're free to use, modify and share it, including for commercial purposes, as long as you keep the copyright and license notices and state any changes you make. The license does not grant permission to use the Ocean Science Analytics name or logo.
+
